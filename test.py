@@ -1,1 +1,1 @@
-import neuro.atlas_viewer.data_manager
+import neuro.atlas_viewer.viewer
